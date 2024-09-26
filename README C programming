@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+ void main() 
+ {
+ Clrscr();
+ print f("my name is shrishant \n");
+ print f("my roll number is 74 \n");
+ print f("my division is D \n");
+ getch();
+ }
+ result;
+ 
